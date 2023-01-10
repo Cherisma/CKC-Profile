@@ -1,5 +1,6 @@
 # CKC-Profile
 Cherisma's Professional Portfolio
+User Story
 
 This is the first version of my professional portfolio. 
 
